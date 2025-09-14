@@ -9,3 +9,5 @@ Heap.class
 largest.class
 reverse.class
 pairs.class
+subarrays.class
+maxSubarraySum.class
